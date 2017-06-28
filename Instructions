@@ -1,0 +1,20 @@
+Technologies Need:
+Html/CSS
+Javascript
+Bootstrap
+jQuery
+
+Design Layout:
+Scrolling
+Navbar links to portion of Page
+Navbar at the top (Static - Scroll with the page)
+  -FIRST NAME/ LAST NAME
+  -Bio
+  -Contact
+  -Projects
+
+Bio - Picture, Paragraph,
+Contact - Linkedin link, Resume, Contact
+Projects - Name, Description, Project Contains:, Picture/Video
+
+Dynamic Background Images
